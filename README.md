@@ -1,11 +1,11 @@
 ## ScholarNet
 
 
-ScholarNet is an online education platform designed to provide a seamless learning experience for students and educators alike. With a focus on user-friendly interfaces and high-quality content, Education Academia aims to revolutionize how people learn and teach.
+ScholarNet is an online education platform designed to provide a seamless learning experience for students and educators alike. With a focus on user-friendly interfaces and high-quality content, ScholarNet aims to revolutionize how people learn and teach.
 
 ## Features
 
-- **Responsive Design:** Education Academia is built with a responsive design, ensuring optimal viewing and interaction experience across a wide range of devices.
+- **Responsive Design:** ScholarNet is built with a responsive design, ensuring optimal viewing and interaction experience across a wide range of devices.
 - **Rich Content:** Access a vast library of educational materials, including courses, articles, and interactive learning modules.
 - **User Profiles:** Students and educators can create personalized profiles to track their progress, manage courses, and connect with peers.
 - **Dynamic Search:** Easily find relevant courses and resources using our intuitive search functionality.
@@ -14,7 +14,7 @@ ScholarNet is an online education platform designed to provide a seamless learni
 
 ## Installation
 
-To install Education Academia locally, follow these steps:
+To install ScholarNet locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/rajanarahul93/ScholarNet.git`
 2. Navigate to the project directory: `cd ScholarNet`
@@ -24,7 +24,7 @@ To install Education Academia locally, follow these steps:
 
 ## Dependencies
 
-Education Academia relies on the following dependencies:
+ScholarNet relies on the following dependencies:
 
 - **React:** JavaScript library for building user interfaces.
 - **React Router DOM:** Declarative routing for React applications.
@@ -37,7 +37,7 @@ For a complete list of dependencies, refer to the `package.json` file in the pro
 
 ## Contributing
 
-We welcome contributions from the community to help improve Education Academia. To contribute, please follow these guidelines:
+We welcome contributions from the community to help improve ScholarNet. To contribute, please follow these guidelines:
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature-name`
@@ -47,7 +47,7 @@ We welcome contributions from the community to help improve Education Academia. 
 
 ## License
 
-Education Academia is open-source software licensed under the [MIT License](LICENSE).
+ScholarNet is open-source software licensed under the [MIT License](LICENSE).
 
 ## Contact
 
